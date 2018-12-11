@@ -99,7 +99,7 @@ int main(int argc, char** argv)
 		<< other_data.d3;
 	
 	//cin >> other_data.d3;
-	cin.ignore();
+	//cin.ignore();
 
 	return 0;
 }
